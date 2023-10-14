@@ -1,7 +1,7 @@
 /**
 *	@NApiVersion 2.1
 *	@NScriptType UserEventScript
-*   Script Scope: Validate UPC field on inventory items. If field is not exactly 12 digits long or blank, prevent saving.
+*   	Script Scope: Validate UPC field on inventory items. If field is not exactly 12 digits long or blank, prevent saving.
 */
 
 //This section calls the N/ui/message, N/log, and N/error modules and sets the context to record CREATE and EDIT.
